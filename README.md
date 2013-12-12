@@ -13,59 +13,59 @@ Copy the HTML code and put it in your site, preferably right after the body tag.
 ### Green - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-green-left-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-green-left-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-green-left-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Green - Right
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-green-right-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-green-right-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-green-right-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Dark Green - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-dark-green-left-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-dark-green-left-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-dark-green-left-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Dark Green - Right
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-dark-green-right-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-dark-green-right-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-dark-green-right-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Blue - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-blue-left-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-blue-left-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-blue-left-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Blue - Right
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-blue-right-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-blue-right-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-blue-right-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Pink - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-pink-left-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-pink-left-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-pink-left-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Pink - Right
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-pink-right-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-pink-right-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-pink-right-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Gray - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-gray-left-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-gray-left-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-gray-left-1.png" alt="Play on Game Jolt"></a>
 ```
 
 ### Gray - Right
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-gray-right-1.png)
 ```html
-<a href="http://gamejolt.com/your_game_url"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-gray-right-1.png" alt="Play on Game Jolt"></a>
+<a href="http://gamejolt.com/your_game_url" title="Play on Game Jolt"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s.gjcdn.net/img/ribbons/play-gray-right-1.png" alt="Play on Game Jolt"></a>
 ```
