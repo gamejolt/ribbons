@@ -10,6 +10,8 @@ Feel free to make modifications to them to fit your project's page.
 
 Copy the HTML code and put it in your site, preferably right after the body tag.
 
+Make sure to change the URL in the HTML snippets to point to your game pages!
+
 ### Green - Left
 ![Play on Game Jolt](http://s.gjcdn.net/img/ribbons/play-green-left-1.png)
 ```html
